@@ -1,2 +1,2 @@
-# CatalogApp
-App to view different phones and their details.
+# Phone Catalog App
+App to view different phones and their details
