@@ -78,7 +78,7 @@ Check it: [Catalog_API](https://catalog-phone-api.herokuapp.com/api/phones/phone
 | https://catalog-phone-api.herokuapp.com/api/phones/newPhone  | POST METHOD - Create new phone |
 | https://catalog-phone-api.herokuapp.com/api/phones/delete/phoneID  | DELETE METHOD - Delete one phone |
 | https://catalog-phone-api.herokuapp.com/api/phones/editPhone/phoneID  | PUT METHOD - Edit phone info |
-  
+ 
 
 And...**_That's all Folks._**
 
