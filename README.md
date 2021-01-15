@@ -2,7 +2,7 @@
 
 Light App to view different fake phones and their details.
 
-Created by: **Héctor Carramiñana**.
+Created by: **Héctor Carramiñana**. 
 
 A responsive ReactJS App with four available different actions by the user (CRUD):
 
