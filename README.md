@@ -71,7 +71,7 @@ Light footer is included too like you can see on above video.
 
 Check it: [Catalog_API](https://catalog-phone-api.herokuapp.com/api/phones/phones) 
 
-| API Url | Content |
+| API URL | Content |
 | ------------- | ------------- |
 | https://catalog-phone-api.herokuapp.com/api/phones/phones | GET METHOD - Get an array of objects with the all phones info |
 | https://catalog-phone-api.herokuapp.com/api/phones/phoneID  | GET METHOD - Get an object with one phone info |
