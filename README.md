@@ -11,7 +11,7 @@ A responsive ReactJS App with four available different actions by the user (CRUD
 - Update
 - Delete
 
-Site URL: [Catalog_App](https://catalog-phone-app.herokuapp.com/) 
+**Site URL: [Catalog_App](https://catalog-phone-app.herokuapp.com/)** 
 
 ## Video summary of the app:
 Click to see the video :)
