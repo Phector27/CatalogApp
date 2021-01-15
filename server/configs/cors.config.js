@@ -1,6 +1,6 @@
 const cors = require('cors')
 
-const whitelist = ['http://localhost:3000']
+const whitelist = [process.env.DOMAIN_REMOTE, process.env.DOMAIN_LOCAL]
 
 const corsOptions = {
     origin: (origin, cb) => {
