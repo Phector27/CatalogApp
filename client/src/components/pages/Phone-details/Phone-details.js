@@ -9,7 +9,8 @@ export default class PhoneDetails extends Component {
     constructor() {
         super()
         this.state = {
-            phone: undefined
+            phone: undefined,
+            error: ''
         }
         this.phoneService = new PhoneService()
     }
@@ -21,7 +22,7 @@ export default class PhoneDetails extends Component {
         this.phoneService
             .getPhone(phoneId)
             .then(res => this.setState({ phone: res.data }))
-            .catch(err => console.log(err))
+            .catch(err => this.setState({ error: 'An error has ocured. Please reload the page and try it again.' }))
     }
 
     render() {

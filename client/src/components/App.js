@@ -17,7 +17,6 @@ function App() {
       <main>
         <Switch>
           <Route path="/" exact render={() => <PhoneList />} />
-          <Route path="/new" exact render={() => <PhoneForm />} />
           <Route path="/phones/:phone_id" exact render={props => <PhoneDetails {...props} />} />
         </Switch>
       </main>
