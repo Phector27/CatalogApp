@@ -5,8 +5,6 @@ import Col from 'react-bootstrap/Col'
 import Button from 'react-bootstrap/Button'
 import DeleteLogo from './klipartz.com.png'
 
-
-
 const PhoneCard = ({ title, manufacturer, description, color, price, imageUrl, screenSize, processor, ramMemory, _id, deleteElement, handleModal }) => {
     return (
         <Col sm={12} md={6} lg={4}>
