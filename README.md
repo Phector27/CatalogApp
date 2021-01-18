@@ -65,6 +65,10 @@ Light footer is included too like you can see on above video.
   - Create the necesary service inside service folder to use it (Cloudinary).
   - Change the input form and checkit in React Developer Tools that all is correct :)
   - Check that it works to create and edit phones.
+  
+**10. Enjoy:**
+
+  ![CatalogApp gif](https://res.cloudinary.com/phector27/image/upload/v1610956851/cv-webuild/bloggif_60053f7988abb_l319ps.gif)
 
 
 ## Do you want to use my API REST? Nice!
